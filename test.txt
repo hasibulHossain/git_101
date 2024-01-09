@@ -1,1 +1,2 @@
-the brown fox jumps over the lazy dog.
+the brown fox jumps over the lazy dog. 
+lazy dog dead!
